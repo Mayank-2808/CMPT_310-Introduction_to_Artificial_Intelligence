@@ -1,0 +1,1 @@
+A survey of modern approaches for artificial intelligence (AI). Provides an introduction to a variety of AI topics and prepares students for upper-level courses. Topics include: problem solving with search; adversarial game playing; probability and Bayesian networks; machine learning; and applications such as robotics, visual computing and natural language.
